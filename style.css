@@ -1,0 +1,15 @@
+body{
+//height: 2000px;
+background-image: url(back.webp);
+background-size: cover;
+}
+h1
+{
+    color: white;
+}
+
+form
+{
+    resize: vertical;
+    color : red;
+}

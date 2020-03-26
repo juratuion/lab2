@@ -1,0 +1,21 @@
+body{
+    background-color: violet;
+}
+
+@media screen and (min-width: 400px)
+{
+    body
+    {
+        background-color: blue;
+    }
+}
+
+@media screen and (min-width: 800px)
+{
+    body
+    {
+        background-color: rgba(16, 211, 26, 0.521);
+    }
+}
+
+
